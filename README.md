@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aayush</h1>
-<h3 align="center">I am an aspiring web developer from Nepal, currently learning the ropes of web development.</h3>
+<h1 align="center">Hi, I'm Aayush <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+<!-- <h3 align="center">I am an aspiring web developer from Nepal, currently learning the ropes of web development.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayzbtr&label=Profile%20views&color=0e75b6&style=flat" alt="ayzbtr" /> </p>
 
@@ -30,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayzbtr&show_icons=true&locale=en" alt="ayzbtr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayzbtr&" alt="ayzbtr" /></p>
+
+
+
