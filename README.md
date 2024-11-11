@@ -39,9 +39,9 @@
 </div>
 
 <hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<div align=center> -->
   <!-- <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ayzbtr&" alt="top langs" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ayzbtr&show_icons=true&locale=en" alt="readme stats" />
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayzbtr&show_icons=true&locale=en&layout=compact" alt="streak stats"/> -->
