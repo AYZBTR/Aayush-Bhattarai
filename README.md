@@ -9,7 +9,7 @@
 
 👯 I’m looking to collaborate on **Fullstacks Projects**
 
-📫 How to reach me **daabh001@gmail.com**
+📫 How to reach me **aayushbhattarai.78@proton.me**
 
  </div>
  
